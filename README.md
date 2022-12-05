@@ -1,6 +1,6 @@
 # Embedded_System_lab_4
-  week12 task : Password Check<br />
-  After receiving the password from the keypad, turn on the green LED if it matches the previously set password, and turn on the red LED for the rest.
+  week13 task : ADC and Step Motor
+After converting the analog value read by the sensor into a digital value through the ADC, the stepper motor rotates according to the value.
 
 # Group A members : 
   12161427 김준혁<br />
